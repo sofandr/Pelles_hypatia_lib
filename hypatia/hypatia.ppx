@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="src\hypatia.h" />
+	<category name="src\quaternion.c" />
+	<category name="src\quaternion.h" />
+	<category name="src\experimental.c" />
+</settings>
